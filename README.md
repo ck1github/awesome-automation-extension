@@ -1,6 +1,4 @@
 # Awesome Automation Extension
-## CK Rathod
-# Awesome Automation Extension
 ## By **CK Rathod**
 This browser extension automates the detection of login-related pages and attempts to log in using test data from an Excel file. It detects the presence of the word "login" on any webpage, clicks the login button, fills out the form with credentials from an Excel file, and submits it.
 
